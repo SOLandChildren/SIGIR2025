@@ -1,0 +1,4 @@
+QID,Query,Prompt Type,Task Sentiment
+qGEN1,tornado,General,
+qEM1, le conseguenze negative della distruzione della foresta amazzonica,Emotionally Charged,Negative
+qEM6,Le regole per tenere le spiagge pulite,Emotionally Charged,Positive

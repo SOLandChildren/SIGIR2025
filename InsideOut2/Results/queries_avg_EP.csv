@@ -1,0 +1,9 @@
+Analysis,Prompt Type,Task Sentiment,Text Sample,positive,negative,neutral,anger,anticipation,disgust,fear,joy,sadness,surprise,trust
+Lexical,General,Overall,Query,15.37,15.73,68.9,10.35,10.6,0.16,34.73,6.33,5.17,1.11,19.7
+Lexical,EM,Overall,Query,11.11,11.11,77.78,4.82,2.44,0.0,7.01,6.54,0.0,24.19,31.83
+Lexical,EM,Bad,Query,11.53,12.54,75.94,6.98,4.65,0.0,9.69,2.33,0.0,44.96,24.42
+Lexical,EM,Good,Query,10.65,9.53,79.81,2.44,0.0,0.0,4.06,11.2,0.0,1.28,40.0
+Semantic,General,Overall,Query,29.59,70.41,,11.96,,,23.62,29.89,34.53,,
+Semantic,EM,Overall,Query,19.31,80.69,,32.86,,,18.87,25.47,22.8,,
+Semantic,EM,Bad,Query,0.03,99.97,,25.02,,,33.43,0.1,41.45,,
+Semantic,EM,Good,Query,40.57,59.43,,41.51,,,2.82,53.44,2.23,,

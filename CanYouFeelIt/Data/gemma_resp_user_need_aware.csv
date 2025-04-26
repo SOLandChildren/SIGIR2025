@@ -1,0 +1,566 @@
+Prompt Type,QID,Task Sentiment,IAS,Resp,date_generated
+user_need_aware,QGEN1,,GEM,Un tornado è un uragano con un'aria molto veloce e un'enorme forza. È,2025-04-26
+user_need_aware,QGEN2,,GEM,Un tornado è un uragano con un'aria molto veloce e un'enorme forza. È,2025-04-26
+user_need_aware,QGEN3,,GEM,"La piramide egizia è un monumento incredibile! 
+
+È una costruzione enorme e imponente",2025-04-26
+user_need_aware,QGEN4,,GEM,"Le piramidi sono costruite con blocchi di pietra! 
+
+C'è una pi",2025-04-26
+user_need_aware,QGEN5,,GEM,La piramide più alta dell'antico Egitto è la **Piramide di Khufu** a,2025-04-26
+user_need_aware,QGEN6,,GEM,Il tornado è un uragano molto veloce!  La sua velocità può arrivare fino a 30,2025-04-26
+user_need_aware,QGEN7,,GEM,"La Piramide di Cheope si trova a **Giza, in Egitto**. 
+",2025-04-26
+user_need_aware,QGEN8,,GEM,"Un tornado ha una velocità incredibile!  Si muove molto velocemente, a volte più di",2025-04-26
+user_need_aware,QGEN9,,GEM,"Un vulcano attivo antico è un vulcano che è stato attivo in passato, ma che continua a",2025-04-26
+user_need_aware,QGEN10,,GEM,"Un tornado veloce! È un'immagine potente. 🌪️  
+
+Immagina un vento così",2025-04-26
+user_need_aware,QGEN11,,GEM,"Un vulcano attivo antico è un vulcano che è stato attivo in passato, ma che continua a",2025-04-26
+user_need_aware,QGEN12,,GEM,"Monica è una bella ragazza. 
+",2025-04-26
+user_need_aware,QGEN13,,GEM,Un tornado nero? È un'idea fantastica! Immagina un tornado che è nero come la,2025-04-26
+user_need_aware,QGEN14,,GEM,"Il tornado è un uragano di vento, un'onda di aria che si muove velocemente",2025-04-26
+user_need_aware,QGEN15,,GEM,"Ecco alcuni animali che sono in pericolo di estinzione:
+
+* **Elefante africano:**  ",2025-04-26
+user_need_aware,QGEN16,,GEM,"I vulcani si formano quando il magma, una sorta di lava calda e viscosa, si",2025-04-26
+user_need_aware,QGEN17,,GEM,I vulcani sono come dei giganti di pietra che si nascondono sotto la superficie della Terra,2025-04-26
+user_need_aware,QGEN18,,GEM,"Il leopardo delle nevi è classificato come **Felis silvestris, una specie di leopardo",2025-04-26
+user_need_aware,QGEN19,,GEM,"Ecco alcune cose che possiamo fare per aiutare le specie in estinzione:
+
+**Proteggere la",2025-04-26
+user_need_aware,QGEN20,,GEM,"Il vulcano più piccolo del mondo si trova in **California, Stati Uniti**. 🌋 
+
+",2025-04-26
+user_need_aware,QGEN21,,GEM,"Il vulcano più piccolo del mondo si trova in **Italia**, nel **territorio di Stromboli",2025-04-26
+user_need_aware,QGEN22,,GEM,"Il vulcano più piccolo del mondo si trova in **California, Stati Uniti**. 🌋 
+
+",2025-04-26
+user_need_aware,QGEN23,,GEM,Il vulcano più antico attivo al mondo è il **Kilauea** in Hawaii.,2025-04-26
+user_need_aware,QGEN24,,GEM,Il vulcano più antico attivo al mondo è il **Kilauea** in Hawaii.,2025-04-26
+user_need_aware,QGEN25,,GEM,"È difficile dire quanti esemplari di ""Fantasma delle Montagne"" rimangono. 👻",2025-04-26
+user_need_aware,QGEN26,,GEM,"Ecco altri nomi per il tornado:
+
+* **Fendente:**  Un nome che evoca la",2025-04-26
+user_need_aware,QGEN27,,GEM,Il tornado può raggiungere una velocità massima di **300 chilometri all'ora**! ,2025-04-26
+user_need_aware,QGEN28,,GEM,"Immagina un cielo grigio e tempestoso. Il vento soffia forte, e le nuvole si",2025-04-26
+user_need_aware,QGEN29,,GEM,Un tornado è un uragano molto forte con un'aria molto veloce e un vento che può essere,2025-04-26
+user_need_aware,QGEN30,,GEM,"Un tornado nasce da un'enorme tempesta di pioggia e vento. 🌪️ 
+
+",2025-04-26
+user_need_aware,QGEN31,,GEM,"Ecco alcuni sinonimi per ""tornado"":
+
+* **Fuoco di vento**
+* **V",2025-04-26
+user_need_aware,QGEN32,,GEM,"Immagina un cielo grigio e tempestoso, con nuvole nere e dense che si muovono",2025-04-26
+user_need_aware,QGEN33,,GEM,Un tornado è un uragano di aria che si forma in un cielo tempestoso. È un fenomeno,2025-04-26
+user_need_aware,QGEN34,,GEM,La piramide di Cheope è la più alta! È enorme e bellissima. 🏛️  ,2025-04-26
+user_need_aware,QGEN35,,GEM,"Il mostro nero è un uragano! È un uragano molto forte, con vento e pioggia",2025-04-26
+user_need_aware,QGEN36,,GEM,"Immagina un cielo grigio e tempestoso, con nuvole nere e dense che si muovono",2025-04-26
+user_need_aware,QGEN37,,GEM,"Ecco tre animali in estinzione:
+
+* **L'elefante africano:**  È un",2025-04-26
+user_need_aware,QGEN38,,GEM,"Il leopardo delle nevi è un felino **maestoso** e **elegante**. 
+
+",2025-04-26
+user_need_aware,QGEN39,,GEM,"Ecco alcuni modi in cui possiamo aiutare le specie in estinzione:
+
+**Proteggi la natura",2025-04-26
+user_need_aware,QGEN40,,GEM,"È difficile dire quanti esemplari rimasti ci siano del fantasma delle montagne. 👻 
+
+",2025-04-26
+user_need_aware,QGEN41,,GEM,"Il leopardo delle nevi è classificato come **Panthera uncia**. 
+
+È un fel",2025-04-26
+user_need_aware,QGEN42,,GEM,"Ecco alcune cose che possiamo fare per aiutare le specie in estinzione:
+
+**Proteggere la",2025-04-26
+user_need_aware,QGEN43,,GEM,"Ecco alcuni modi in cui possiamo aiutare le specie in estinzione:
+
+**Cosa possiamo fare:**",2025-04-26
+user_need_aware,QGEN44,,GEM,"C'è un vecchio racconto che dice che nelle montagne, quando la luna è piena, si possono",2025-04-26
+user_need_aware,QGEN45,,GEM,"Ecco tre animali a rischio di estinzione:
+
+* **Elefante africano:**  Questi",2025-04-26
+user_need_aware,QGEN46,,GEM,"Il leopardo delle nevi è un animale molto speciale! Ecco come si classificano:
+
+* **",2025-04-26
+user_need_aware,QGEN47,,GEM,"Ecco alcuni modi in cui possiamo aiutare le specie in estinzione:
+
+**Proteggere la loro",2025-04-26
+user_need_aware,QGEN48,,GEM,"Ecco alcuni modi in cui possiamo aiutare le specie in estinzione:
+
+**1. Proteggere",2025-04-26
+user_need_aware,QGEN49,,GEM,"Ecco alcuni esempi di rimaste del fantasma delle nevi:
+
+**1. La nebbia",2025-04-26
+user_need_aware,QGEN50,,GEM,"Ecco alcuni esempi di ""fantasmi delle montagne"":
+
+**1. Il fantasma del sentiero perdu",2025-04-26
+user_need_aware,QGEN51,,GEM,"Ecco alcuni pericoli per le specie animali:
+
+* **La perdita di habitat:**  Quando le",2025-04-26
+user_need_aware,QGEN52,,GEM,"C'è un fantasma sulle montagne, un fantasma che non si vede, ma che si sente.",2025-04-26
+user_need_aware,QGEN53,,GEM,Fantasma delle montagne! Un'ombra misteriosa che si aggira tra le cime innevate. ,2025-04-26
+user_need_aware,QGEN54,,GEM,"Un leone di neve! È un animale fantastico, vero? 
+
+Hai mai visto un leone",2025-04-26
+user_need_aware,QGEN55,,GEM,"Ecco tre animali a rischio estinzione:
+
+* **L'elefante africano:**  Ques",2025-04-26
+user_need_aware,QGEN56,,GEM,Il vulcano attivo più antico del mondo è il **Mauna Kea** in Hawaii. 🌋,2025-04-26
+user_need_aware,QGEN57,,GEM,"Ecco alcuni tipi di eruzione che possono essere più dannosi:
+
+* **Eruzione cut",2025-04-26
+user_need_aware,QGEN58,,GEM,"Il vulcano più piccolo del mondo si trova in **Italia**, nel **territorio di Sicilia**.",2025-04-26
+user_need_aware,QGEN59,,GEM,Il vulcano più attivo e antico del mondo è il **Mauna Loa** in Hawaii. ,2025-04-26
+user_need_aware,QGEN60,,GEM,La tipologia di eruzione che provoca più danni è la **eruzione vulcanica** con un,2025-04-26
+user_need_aware,QGEN61,,GEM,"Ecco alcuni tipi di eruzioni vulcaniche e i danni che possono causare:
+
+**E",2025-04-26
+user_need_aware,QGEN62,,GEM,"Il vulcano più piccolo si trova in **Sicilia**, vicino a **Etna**. 🌋",2025-04-26
+user_need_aware,QGEN63,,GEM,Il vulcano più antico attivo al mondo è il **Mauna Loa** in Hawaii. 🌋,2025-04-26
+user_need_aware,QGEN64,,GEM,I vulcani si formano quando la Terra è come un grande guscio di cioccolato! 🍫,2025-04-26
+user_need_aware,QGEN65,,GEM,Un bambino sano di 9-11 anni ha bisogno di circa **2000-,2025-04-26
+user_need_aware,QGEN66,,GEM,"I punti cardinali sono:
+
+* **Nord**
+* **Sud**
+* **Est",2025-04-26
+user_need_aware,QGEN67,,GEM,"Le moto sono fantastiche! Ecco alcune cose che le rendono così speciali:
+
+* **Libertà",2025-04-26
+user_need_aware,QGEN68,,GEM,"Il periodo Paleolitico inizia circa **1,8 milioni di anni fa** e si estende",2025-04-26
+user_need_aware,QGEN69,,GEM,"Ciao!  Cosa vuoi sapere su Zigurat? 
+
+È un gioco divertente!  Vuoi",2025-04-26
+user_need_aware,QGEN70,,GEM,"Ecco 3 animali a rischio di estinzione:
+
+1. **Elefante africano:**  ",2025-04-26
+user_need_aware,QGEN71,,GEM,"I punti cardinali sono:
+
+* **Nord:**  È il punto dove si trova il Polo",2025-04-26
+user_need_aware,QGEN72,,GEM,"Ecco alcuni animali in estinzione:
+
+* **Elefante africano:**  Questo animale è molto",2025-04-26
+user_need_aware,QGEN73,,GEM,"La Piramide di Cheope si trova a **Giza, in Egitto**. 
+",2025-04-26
+user_need_aware,QGEN74,,GEM,Ecco un'immagine di una piramide egizia: [inserisci immagine di una piramide eg,2025-04-26
+user_need_aware,QGEN75,,GEM,"Ecco alcuni animali che stanno per scomparire:
+
+* **Il panda gigante:**  È un",2025-04-26
+user_need_aware,QGEN76,,GEM,I vulcani sono un gruppo di montagne vulcaniche che si trovano in diverse parti del mondo. ,2025-04-26
+user_need_aware,QGEN77,,GEM,"Certo! I vulcani più grandi del mondo sono incredibili! 🌋
+
+**Ma quali",2025-04-26
+user_need_aware,QGEN78,,GEM,"La piramide più alta del mondo è la Piramide di Cheope a Giza, in E",2025-04-26
+user_need_aware,QGEN79,,GEM,"Ecco i punti cardinali:
+
+* **Nord:**  È il punto più freddo e più lontano",2025-04-26
+user_need_aware,QGEN80,,GEM,Il vulcano più grande del mondo è il **Mauna Loa** in Hawaii. 🌋 ,2025-04-26
+user_need_aware,QGEN81,,GEM,La piramide più alta dell'antico Egitto è la **Piramide di Khufu** a,2025-04-26
+user_need_aware,QGEN82,,GEM,"Mi dispiace, ma non posso dirti come scaricare musica da YouTube. È illegale scaricare musica",2025-04-26
+user_need_aware,QGEN83,,GEM,"Il padre di Micerino è **il Conte di  ** 
+",2025-04-26
+user_need_aware,QGEN84,,GEM,Le piramidi egizie erano costruite con un metodo incredibilmente ingegnoso e labor,2025-04-26
+user_need_aware,QGEN85,,GEM,La piramide più alta dell'antico Egitto è la **Piramide di Khufu** a,2025-04-26
+user_need_aware,QGEN86,,GEM,La tomba del padre di Micerino è alta un po' come un palazzo! 🏰  ,2025-04-26
+user_need_aware,QGEN87,,GEM,La tomba di Cheope è alta circa 147 metri! 🤯 È alta più di,2025-04-26
+user_need_aware,QGEN88,,GEM,"Ecco le regole principali della pallavolo:
+
+**Obiettivo:** 
+* Il team che vince",2025-04-26
+user_need_aware,QGEN89,,GEM,La regione con più squadre di pallavolo è la **Lombardia**. 🏐 🇮🇹,2025-04-26
+user_need_aware,QGEN90,,GEM,La piramide più alta dell'antico Egitto è la **Piramide di Khufu** a,2025-04-26
+user_need_aware,QGEN91,,GEM,"In una squadra di ginnastica, ci sono **6** atleti. 
+",2025-04-26
+user_need_aware,QGEN92,,GEM,"In una squadra di pallavolo, ci sono **6 giocatori**. 
+",2025-04-26
+user_need_aware,QGEN93,,GEM,"Ecco alcune regioni italiane con molte squadre di pallavolo:
+
+* **Lombardia:**  È",2025-04-26
+user_need_aware,QGEN94,,GEM,"Non so quanti Leopardi delle nevi siano rimasti.  
+
+Ma posso dirti che le",2025-04-26
+user_need_aware,QGEN95,,GEM,"Ecco alcune cose che possiamo fare per salvare gli animali in estinzione:
+
+**1. Prote",2025-04-26
+user_need_aware,QGEN96,,GEM,"I Fantasmi delle Montagne sono creature leggendarie che si dice vivano nelle montagne. 
+
+",2025-04-26
+user_need_aware,QGEN97,,GEM,"Il Leopardo delle nevi è un animale meraviglioso! Ecco come si classificano:
+
+",2025-04-26
+user_need_aware,QGEN98,,GEM,"Il Panthera uncia è un felino che si colloca nella famiglia dei **Felidae**,",2025-04-26
+user_need_aware,QGEN99,,GEM,Il Panthera uncia è un **gatto selvatico** che viveva in Asia.,2025-04-26
+user_need_aware,QGEN100,,GEM,"Ecco alcuni modi in cui possiamo aiutare le specie in pericolo:
+
+**1. Proteggi la natura",2025-04-26
+user_need_aware,QGEN101,,GEM,"Ecco alcuni modi in cui puoi aiutare le specie in pericolo:
+
+**A casa:**
+
+* **",2025-04-26
+user_need_aware,QGEN102,,GEM,"C'è un fantasma nella montagna?  È una storia divertente! 
+
+Un tempo, c",2025-04-26
+user_need_aware,QGEN103,,GEM,"Ecco tre animali che stanno per scomparire:
+
+* **Il panda gigante:**  Questo animale",2025-04-26
+user_need_aware,QGEN104,,GEM,"Ecco una classificazione delle orse delle nevi, in modo semplice per un bambino di 9",2025-04-26
+user_need_aware,QGEN105,,GEM,"L'IUCN, o International Union for Conservation of Nature, è come un'organizzazione globale che si",2025-04-26
+user_need_aware,QGEN106,,GEM,"Ecco tre animali a rischio estinzione:
+
+* **L'elefante africano:**  È",2025-04-26
+user_need_aware,QGEN107,,GEM,"Il WWF, o World Wide Fund for Nature, è un'organizzazione internazionale che si batte per la",2025-04-26
+user_need_aware,QGEN108,,GEM,"C'è un fantasma nelle montagne? 👻 
+
+Un fantasma con un cappello di lana e",2025-04-26
+user_need_aware,QGEN109,,GEM,"Ci sono ancora pochi esemplari di leopardo delle nevi, ma la loro popolazione sta lentamente aumentando",2025-04-26
+user_need_aware,QGEN110,,GEM,"È difficile dire quanti tipi di fantasmi delle montagne rimangono.  
+
+I fantasmi delle",2025-04-26
+user_need_aware,QGEN111,,GEM,La regione con più squadre di calcio in Italia è la **Lombardia**. ⚽️ ,2025-04-26
+user_need_aware,QGEN112,,GEM,Un tornado può viaggiare a velocità incredibili!  A volte possono arrivare fino a **30,2025-04-26
+user_need_aware,QGEN113,,GEM,"Il ""Tornado mostro nero"" è un'immagine fantastica che si trova in un libro di",2025-04-26
+user_need_aware,QGEN114,,GEM,"Il padre di Micerino è un personaggio importante nella storia.  
+
+**Ma dimmi,",2025-04-26
+user_need_aware,QGEN115,,GEM,"La tomba di Chefren è alta circa 100 metri. 
+",2025-04-26
+user_need_aware,QGEN116,,GEM,"Il padre di Micerino era **il Conte di Micerino**. 
+",2025-04-26
+user_need_aware,QGEN117,,GEM,Il figlio di Chefren era un ragazzo forte e coraggioso.  Il suo nome era  **,2025-04-26
+user_need_aware,QGEN118,,GEM,Il padre di Micerino era un uomo forte e coraggioso.  Aveva un grande cuore,2025-04-26
+user_need_aware,QGEN119,,GEM,La tomba di Cheope è alta circa 147 metri! È alta più di un edificio,2025-04-26
+user_need_aware,QGEN120,,GEM,Micerino è un bambino misterioso!  Il suo padre è un mistero ancora da scoprire.,2025-04-26
+user_need_aware,QGEN121,,GEM,Le piramidi egizie sono state costruite con un lavoro incredibilmente duro e organizzato,2025-04-26
+user_need_aware,QGEN122,,GEM,"La piramide di Cheope si trova a **Giza, in Egitto**. 
+",2025-04-26
+user_need_aware,QGEN123,,GEM,La piramide più alta dell'antico Egitto è la **Piramide di Khufu** a,2025-04-26
+user_need_aware,QGEN124,,GEM,"La tomba del padre di Micerino era alta come un grande albero. 🌳 
+",2025-04-26
+user_need_aware,QGEN125,,GEM,"Ecco come si costruisce una piramide egizia, spiegata in modo semplice per un bambino di",2025-04-26
+user_need_aware,QGEN126,,GEM,"Ecco come si costruiscono delle piramidi egizie, spiegato in modo semplice per un bambino",2025-04-26
+user_need_aware,QGEN127,,GEM,"La squadra più antica del calcio è **A.C. Milan**. 
+
+È stata fondata",2025-04-26
+user_need_aware,QGEN128,,GEM,"È difficile dire quanti esemplari rimasti ci sono di ""Fantasma delle Montagne"".  
+
+",2025-04-26
+user_need_aware,QGEN129,,GEM,"Ecco tre animali a rischio di estinzione:
+
+* **L'elefante africano:**  ",2025-04-26
+user_need_aware,QGEN130,,GEM,"Ecco un fantasma delle montagne, in foto: 👻⛰️
+
+[Inserisci un'",2025-04-26
+user_need_aware,QGEN131,,GEM,Un tornado può raggiungere una velocità incredibile!  Si stima che la velocità di un tornado possa,2025-04-26
+user_need_aware,QGEN132,,GEM,Le piramidi egizie erano costruite con un metodo incredibilmente ingegnoso! ,2025-04-26
+user_need_aware,QGEN133,,GEM,"Ecco alcune cose che possiamo fare per salvare gli animali a rischio di estinzione:
+
+**1",2025-04-26
+user_need_aware,QGEN134,,GEM,La piramide più alta dell'antico Egitto è la **Piramide di Khufu** a,2025-04-26
+user_need_aware,QGEN135,,GEM,La tomba del padre di Micerino è alta un po' come un albero! 🌳  ,2025-04-26
+user_need_aware,QGEN136,,GEM,"Il vulcano più attivo nell'Atlantico è il **Stromboli**, situato in Italia. ",2025-04-26
+user_need_aware,QGEN137,,GEM,"Ciao, Micerino! Come stai? 😊 
+
+Cosa vuoi fare oggi? 
+",2025-04-26
+user_need_aware,QGEN138,,GEM,"Ecco come costruire una piramide egizia, ma ricordati che è un progetto impegnativo! ",2025-04-26
+user_need_aware,QGEN139,,GEM,"La piramide più alta dell'antico Egitto è la **Piramide di Khufu**, anche",2025-04-26
+user_need_aware,QGEN140,,GEM,La tomba del padre di Micerino è alta un po' come un albero! 🌳  ,2025-04-26
+user_need_aware,QGEN141,,GEM,"La tomba del padre Micerino è alta circa 10 metri. 
+",2025-04-26
+user_need_aware,QGEN142,,GEM,"La tomba di Micerino è alta circa 1,5 metri. 
+",2025-04-26
+user_need_aware,QGEN143,,GEM,"La tomba di Micerino è alta circa 1,5 metri. 
+",2025-04-26
+user_need_aware,QGEN144,,GEM,Un tornado può raggiungere una velocità di **fino a 300 chilometri all'ora**,2025-04-26
+user_need_aware,QGEN145,,GEM,"Ecco alcuni altri nomi per un tortano:
+
+* **Torta di mele:**  Se il",2025-04-26
+user_need_aware,QGEN146,,GEM,"Ecco alcuni esempi di fantasmi delle montagne:
+
+**1. Il fantasma del valico:**
+
+",2025-04-26
+user_need_aware,QGEN147,,GEM,"Ecco alcune azioni che possiamo fare per aiutare gli animali a non scomparire:
+
+**Proteggere",2025-04-26
+user_need_aware,QGEN148,,GEM,"Il leopardo delle nevi è un animale davvero affascinante! Ecco la sua classificazione:
+
+",2025-04-26
+user_need_aware,QGEN149,,GEM,"Hai ragione, è un mistero!  👻  
+
+Ci sono solo pochi esemplari di",2025-04-26
+user_need_aware,QGEN150,,GEM,"È difficile dire quanti esemplari di ""Fantasma delle Nevi"" rimangono.  ",2025-04-26
+user_need_aware,QGEN151,,GEM,"Il tigrato bianco è un animale fantastico! 🦁✨  
+
+Hai mai visto un tig",2025-04-26
+user_need_aware,QGEN152,,GEM,I vulcani si formano quando la Terra è come un grande guscio di cioccolato! 🍫,2025-04-26
+user_need_aware,QGEN153,,GEM,"Un vulcano si forma quando la **magma**, un liquido bollente e denso composto da roccia",2025-04-26
+user_need_aware,QGEN154,,GEM,"Il vulcano più piccolo del mondo si trova in **Italia**, nel **territorio di Sicilia**.",2025-04-26
+user_need_aware,QGEN155,,GEM,Il vulcano attivo più antico del mondo è il **Mauna Kea** in Hawaii. 🌋,2025-04-26
+user_need_aware,QGEN156,,GEM,"Ecco alcuni modi in cui puoi aiutare gli animali in via di estinzione:
+
+**1.",2025-04-26
+user_need_aware,QGEN157,,GEM,"Il leopardo delle nevi è classificato come **Felis silvestris, una specie di leopardo",2025-04-26
+user_need_aware,QGEN158,,GEM,"Ecco alcune cose che possiamo fare per aiutare la specie in estinzione:
+
+**Proteggere la",2025-04-26
+user_need_aware,QGEN159,,GEM,"La eruzione vulcanica più pericolosa è quella **super-eruzione**. 
+
+Imma",2025-04-26
+user_need_aware,QGEN160,,GEM,Un tornado può raggiungere una velocità di **fino a 300 chilometri all'ora**,2025-04-26
+user_need_aware,QGEN161,,GEM,"Un tornado si forma quando il vento si muove in modo particolare, come un'onda che si",2025-04-26
+user_need_aware,QGEN162,,GEM,"Il mostro nero, un uragano di dimensioni incredibili, è avvenuto in Italia nel ",2025-04-26
+user_need_aware,QGEN163,,GEM,"Un leone di neve! È un animale fantastico, vero? 
+
+Hai mai visto un leone",2025-04-26
+user_need_aware,QGEN164,,GEM,"Il leopardo delle nevi è un animale davvero speciale! Ecco come si classificano:
+
+* **",2025-04-26
+user_need_aware,QGEN165,,GEM,"Ecco alcuni modi in cui possiamo aiutare le specie in estinzione:
+
+**1. Proteggere",2025-04-26
+user_need_aware,QGEN166,,GEM,"Il leopardo delle nevi è classificato come **Panthera uncia**. 
+
+È un fel",2025-04-26
+user_need_aware,QGEN167,,GEM,"Ci sono circa **100** specie di leopardi delle nevi. 
+",2025-04-26
+user_need_aware,QGEN168,,GEM,"Ecco alcuni modi in cui puoi aiutare gli animali in via di estinzione:
+
+**1.",2025-04-26
+user_need_aware,QGEN169,,GEM,"Il leopardo delle nevi è classificato come **Felis silvestris, una specie di leopardo",2025-04-26
+user_need_aware,QGEN170,,GEM,"Ci sono ancora **poco più di 100** esemplari di ""Fantasma delle",2025-04-26
+user_need_aware,QGEN171,,GEM,"Ecco alcuni animali che sono in via di estinzione:
+
+* **Elefante africano:**  ",2025-04-26
+user_need_aware,QGEN172,,GEM,È una domanda importante!  Gli animali quasi estinti sono animali che sono in pericolo di estin,2025-04-26
+user_need_aware,QGEN173,,GEM,Ci sono circa 10.000 esemplari di leopardo delle nevi in tutto,2025-04-26
+user_need_aware,QGEN174,,GEM,"Un tornado si forma quando il vento si muove in modo particolare, come un'onda che si",2025-04-26
+user_need_aware,QGEN175,,GEM,"Ecco alcuni altri nomi per il tornado:
+
+* **Fuoco di vento:**  Descrive il",2025-04-26
+user_need_aware,QGEN176,,GEM,Il mostro nero è un'immagine che ci fa paura. È un creature che vive nella notte,2025-04-26
+user_need_aware,QGEN177,,GEM,"Il mostro nero è un personaggio di fantasia, un'idea che si è sviluppata nel tempo",2025-04-26
+user_need_aware,QGEN178,,GEM,"Ecco alcuni sinonimi per ""tornado"":
+
+* **Fuoco di vento**
+* **Temp",2025-04-26
+user_need_aware,QGEN179,,GEM,Il tornado può raggiungere una velocità massima di **300 chilometri all'ora**! ,2025-04-26
+user_need_aware,QGEN180,,GEM,"Il velociraptor era un dinosauro che visse circa 70 milioni di anni fa, durante il",2025-04-26
+user_need_aware,QGEN181,,GEM,"Certo! Per trovare un punto su una mappa, devi seguire questi passaggi:
+
+1.",2025-04-26
+user_need_aware,QGEN182,,GEM,Gli abitanti dell'emisfero boreale usano la **Stella di Arcturus** per,2025-04-26
+user_need_aware,QGEN183,,GEM,"Le coordinate geografiche sono come un indirizzo per una posizione sulla Terra. 🗺️
+
+Immagina",2025-04-26
+user_need_aware,QGEN184,,GEM,"San Giuseppe, o Giuseppe di Nazareth, è stato un santo cristiano molto amato. 
+
+Era",2025-04-26
+user_need_aware,QGEN185,,GEM,"La festa del Papa è una festa molto importante per i cattolici! 
+
+È una festa che",2025-04-26
+user_need_aware,QGEN186,,GEM,Due ingredienti del dolce tipico della festa del Papa sono la **pasta frolla** e la **,2025-04-26
+user_need_aware,QGEN187,,GEM,"La regione con più squadre di basket in Italia è la **Lombardia**. 🏀 
+",2025-04-26
+user_need_aware,QGEN188,,GEM,"La squadra di basket con più anni di attività è la **Chicago Bulls**. 🏀 
+
+Han",2025-04-26
+user_need_aware,QGEN189,,GEM,"Ecco le regole del basket per bambini:
+
+**Obiettivo:**
+
+* Il gioco si svolge su",2025-04-26
+user_need_aware,QGEN190,,GEM,"In una squadra di basket, ci sono **5 giocatori** sul campo. 🏀 
+",2025-04-26
+user_need_aware,QGEN191,,GEM,"Ecco alcune cose che possiamo fare per aiutare le specie in via di estinzione:
+
+**1",2025-04-26
+user_need_aware,QGEN192,,GEM,Ci sono ancora pochi esemplari di leopardo delle nevi.  È difficile quantificare esattamente,2025-04-26
+user_need_aware,QGEN193,,GEM,"Il torneo più vecchio di tennis è il **Wimbledon**. 🎾 
+
+È stato disputato",2025-04-26
+user_need_aware,QGEN194,,GEM,"Ecco le regole del tennis, in modo semplice per un bambino di 9-11 anni:",2025-04-26
+user_need_aware,QGEN195,,GEM,"Il tennis ha origine nel XVIII secolo, in Inghilterra. 🎾 
+
+È stato inventato",2025-04-26
+user_need_aware,QGEN196,,GEM,"Certo! Per trovare un punto su una mappa, devi seguire questi passaggi:
+
+1.",2025-04-26
+user_need_aware,QGEN197,,GEM,"Un tornado si forma quando il vento si muove in modo particolare, come un'onda che si",2025-04-26
+user_need_aware,QGEN198,,GEM,"Il Mostro Nero è un'ombra oscura e potente, come un tornado che si muove veloce",2025-04-26
+user_need_aware,QGEN199,,GEM,La dieta mediterranea è come un'esplosione di sapore e salute! Ecco alcuni dei,2025-04-26
+user_need_aware,QGEN200,,GEM,È importante ricordare che ogni persona è diversa e ha esigenze nutrizionali uniche. Non esiste un numero,2025-04-26
+user_need_aware,QGEN201,,GEM,"Ecco alcuni cibi che forniscono carboidrati:
+
+* **Cereali:** pane, pasta",2025-04-26
+user_need_aware,QGEN202,,GEM,Il vulcano attivo più antico del mondo è il **Mauna Kea** in Hawaii. 🌋,2025-04-26
+user_need_aware,QGEN203,,GEM,"Ecco alcuni tipi di eruzione:
+
+* **Eruzione vulcanica:**  È l'",2025-04-26
+user_need_aware,QGEN204,,GEM,"Ecco le regole del motocross per te, piccolo pilota! 🏍️
+
+**Prima di partire:**",2025-04-26
+user_need_aware,QGEN205,,GEM,Un tornado è un uragano di aria che si forma in un cielo tempestoso. Ecco come si,2025-04-26
+user_need_aware,QGEN206,,GEM,"Ecco altri nomi per il tornado:
+
+* **Fendente:**  Un nome che evoca la",2025-04-26
+user_need_aware,QGEN207,,GEM,"Il leopardo delle nevi è un vertebrato! 🐆 
+
+Ha una schiena con",2025-04-26
+user_need_aware,QGEN208,,GEM,"Ecco alcuni modi in cui possiamo aiutare gli animali in estinzione:
+
+**1. Proteggi",2025-04-26
+user_need_aware,QGEN209,,GEM,"Non c'è un numero preciso di fantasmi delle montagne! 
+
+I fantasmi sono creature",2025-04-26
+user_need_aware,QGEN210,,GEM,"Ecco tre animali a rischio estinzione:
+
+* **Elefante africano:**  Questi animali",2025-04-26
+user_need_aware,QGEN211,,GEM,Il Mostro Nero Tornado è un'immagine fantastica! È un'idea di un mostro,2025-04-26
+user_need_aware,QEM1,Negative,GEM,La distruzione della foresta amazzonica ha conseguenze negative pesanti per il nostro pianeta.,2025-04-26
+user_need_aware,QEM2,Negative,GEM,"L'isola di plastica è un luogo fantastico, ma è solo una storia! 
+
+Imma",2025-04-26
+user_need_aware,QEM3,Negative,GEM,"L'isola di plastica è un luogo fantastico, ma è solo una storia! 
+
+Imma",2025-04-26
+user_need_aware,QEM4,Negative,GEM,"I ghiacciai stanno diventando sempre più piccoli, come un piccolo gioiello che si sgre",2025-04-26
+user_need_aware,QEM5,Negative,GEM,"Il ghiacciaio è un gigante di ghiaccio che si muove lentamente, come un gigante dormiente",2025-04-26
+user_need_aware,QEM6,Positive,GEM,"Ecco alcune regole per tenere le spiagge pulite:
+
+**1. Non lasciare rifiuti sulla",2025-04-26
+user_need_aware,QEM7,Positive,GEM,"Ecco alcune regole per tenere le spiagge pulite:
+
+**1. Non lasciare rifiuti sulla",2025-04-26
+user_need_aware,QEM8,Positive,GEM,"Le spiagge più pulite in Italia sono quelle di... 🏖️
+
+* **Cala G",2025-04-26
+user_need_aware,QEM9,Positive,GEM,"Una persona che ha a cuore la felicità degli altri si chiama **""amorevole""** o **",2025-04-26
+user_need_aware,QEM10,Negative,GEM,Gli orsi polari sono animali molto speciali e adorabili. È triste sapere che stanno diventando,2025-04-26
+user_need_aware,QEM11,Negative,GEM,Gli orsi polari sono animali molto speciali e adorabili. È triste sapere che stanno diventando,2025-04-26
+user_need_aware,QEM12,Negative,GEM,"Ecco un articolo su come gli orsi polari stanno lottando per sopravvivere:
+
+**",2025-04-26
+user_need_aware,QEM13,Positive,GEM,La biodiversitÃ¡ è come un grande parco con tante specie di animali e piante! 🌳,2025-04-26
+user_need_aware,QEM14,Negative,GEM,"Il buco nel tuo azono è un mistero! 🕵️‍♀️  
+
+Potrebbe",2025-04-26
+user_need_aware,QEM15,Negative,GEM,"Lisola di plastica si trova in tanti posti! 
+
+* **In casa:**  Potresti",2025-04-26
+user_need_aware,QEM16,Negative,GEM,"Gli orsi polari diminuiscono perché la loro casa, il loro habitat, sta diventando",2025-04-26
+user_need_aware,QEM17,Negative,GEM,"La lisola di plastica è un materiale molto versatile! 
+
+È usata per tanti oggetti, come",2025-04-26
+user_need_aware,QEM18,Negative,GEM,Il 2023 è stato un anno molto caldo!  Il riscaldamento globale è un,2025-04-26
+user_need_aware,QEM19,Negative,GEM,"Certo!  Per bucare il terreno, devi usare un **forno**! 
+
+",2025-04-26
+user_need_aware,QEM20,Negative,GEM,"L'isola di plastica è un problema enorme! 🌎 
+
+È un posto dove la plastica",2025-04-26
+user_need_aware,QEM21,Negative,GEM,L'isola di diplastica è un'isola immaginaria fatta di un materiale speciale che si,2025-04-26
+user_need_aware,QEM22,Negative,GEM,"Lisola di plastica è un materiale che si usa per fare tanti oggetti, come giocattoli,",2025-04-26
+user_need_aware,QEM23,Positive,GEM,"Ecco alcuni nomi di spiagge con la bandiera della pulizia:
+
+* **Spiaggia di [",2025-04-26
+user_need_aware,QEM24,Negative,GEM,"Gli orsi polari stanno diventando sempre più rari.  È triste, ma la loro",2025-04-26
+user_need_aware,QEM25,Negative,GEM,Il peso di una bottiglia di plastica varia molto a seconda del tipo di plastica e della sua dimensione,2025-04-26
+user_need_aware,QEM26,Negative,GEM,Il ghiacciaio più preoccupante in questo momento è il **Ghiacciaio di Pine Island**,2025-04-26
+user_need_aware,QEM27,Positive,GEM,"Certo!  Ecco alcune spiagge con la bandiera della pulizia:
+
+* **Spiaggia",2025-04-26
+user_need_aware,QEM28,Positive,GEM,"Ecco tre spiagge con bandiera blu:
+
+1. **Spiaggia di Capri:**  Questa",2025-04-26
+user_need_aware,QEM29,Positive,GEM,"Ecco alcune spiagge con bandiera blu in Italia:
+
+* **Spiaggia di Capo Vaticano,",2025-04-26
+user_need_aware,QEM30,Negative,GEM,Il sole è caldo!  Anche quest'anno è più caldo di quello del 201,2025-04-26
+user_need_aware,QEM31,Positive,GEM,"Ecco le spiagge con la bandiera blu nel 2019 in Italia:
+
+*",2025-04-26
+user_need_aware,QEM32,Positive,GEM,"Ecco alcune spiagge con la bandiera blu in Molise nel 2019:
+
+",2025-04-26
+user_need_aware,QEM33,Positive,GEM,"Ecco alcune regole per tenere pulite le spiagge:
+
+**1. Non lasciare rifiuti:**",2025-04-26
+user_need_aware,QEM34,Positive,GEM,"Ciao! Hai voglia di andare in spiaggia con una bandiera blu? 🏖️
+
+Ecco alcune",2025-04-26
+user_need_aware,QEM35,Positive,GEM,"Ecco alcune spiagge con bandiera blu in Italia:
+
+* **Spiaggia di Capo Vaticano,",2025-04-26
+user_need_aware,QEM36,Positive,GEM,"Ecco alcune spiagge con bandiera della loro pulizia:
+
+* **Spiaggia di Lido di Jes",2025-04-26
+user_need_aware,QEM37,Positive,GEM,"Ecco alcune spiagge in Italia con bandiera di certificazione della loro pulizia:
+
+* **Spi",2025-04-26
+user_need_aware,QEM38,Negative,GEM,Il lago Aral è un esempio triste di come l'uomo possa danneggiare l'ambiente.,2025-04-26
+user_need_aware,QEM39,Negative,GEM,"L'isola di plastica è un problema enorme! 🌎 
+
+È come un grande oceano di",2025-04-26
+user_need_aware,QEM40,Positive,GEM,"Certo! Ecco alcune spiagge in Italia con certificazione di pulizia:
+
+* **Spiaggia",2025-04-26
+user_need_aware,QEM41,Negative,GEM,"L'anno scorso, l'Italia ha avuto un anno molto caldo! ☀️  Il sole",2025-04-26
+user_need_aware,QEM42,Negative,GEM,"L'anno scorso, l'Italia ha avuto un anno molto caldo! ☀️  Il sole",2025-04-26
+user_need_aware,QEM43,Negative,GEM,"Sì, purtroppo gli orsi polari stanno diminuendo drasticamente.  È una situazione triste,",2025-04-26
+user_need_aware,QEM44,Positive,GEM,"Una persona che ha a cuore l'ambiente si chiama **eco-consapevole**. 
+
+",2025-04-26
+user_need_aware,QEM45,Negative,GEM,La distruzione della foresta amazzonica ha conseguenze negative pesanti per l'intero pianeta,2025-04-26
+user_need_aware,QEM46,Negative,GEM,L'isola di plastica è un problema enorme! È una grande quantità di plastica che si accumula,2025-04-26
+user_need_aware,QEM47,Positive,GEM,"Il WWF, o World Wide Fund for Nature, si occupa di proteggere la natura e gli animali",2025-04-26
+user_need_aware,QEM48,Negative,GEM,"L'isola di plastica si trova in un mare, vicino a un porto. È un posto molto",2025-04-26
+user_need_aware,QEM49,Positive,GEM,"Ciao! Sono un piccolo amico della natura.  Amo la bellezza del mondo, i fiori che sb",2025-04-26
+user_need_aware,QEM50,Negative,GEM,Il lago Aral è un lago che si è ridotto drasticamente. La causa principale è la,2025-04-26
+user_need_aware,QEM51,Positive,GEM,"Una persona che ha a cuore la felicità degli altri si chiama **""amorevole""** o **",2025-04-26
+user_need_aware,QEM52,Positive,GEM,Ocean Cleanup è un'organizzazione senza scopo di lucro che si occupa di pulire l'oceano,2025-04-26
+user_need_aware,QEM53,Negative,GEM,"L'isola di plastica è un luogo fantastico, ma è solo una storia! 
+
+Imma",2025-04-26
+user_need_aware,QEM54,Negative,GEM,Il lago Aral è un grande lago che si è ridotto molto. La causa principale è la,2025-04-26
+user_need_aware,QEM55,Positive,GEM,"La biodiversità è come un grande parco di animali e piante! 🌳🐘  
+
+C'",2025-04-26
+user_need_aware,QEM56,Positive,GEM,Ocean Cleanup è un'organizzazione no-profit che si occupa di pulire l'oceano dai,2025-04-26
+user_need_aware,QEM57,Positive,GEM,Ocean Cleanup è un'organizzazione che cerca di pulire l'oceano dai rifiuti. ,2025-04-26
+user_need_aware,QEM58,Negative,GEM,L'isola di plastica si trova in un mare pieno di plastica! È un posto triste e pericolo,2025-04-26
+user_need_aware,QEM59,Positive,GEM,"Ecco alcune regole per tenere le spiagge pulite, per un mare bello e sicuro per tutti:",2025-04-26
+user_need_aware,QEM60,Positive,GEM,"Il WWF, o World Wide Fund for Nature, si occupa di proteggere la natura e gli animali",2025-04-26
+user_need_aware,QEM61,Positive,GEM,"Il WWF, o World Wide Fund for Nature, si occupa di proteggere la natura e gli animali",2025-04-26
+user_need_aware,QEM62,Positive,GEM,Ocean Cleanup è un'organizzazione senza scopo di lucro che si occupa di pulire l'oceano,2025-04-26
+user_need_aware,QEM63,Positive,GEM,"Ecco alcune regole per tenere le spiagge pulite, per un mare bello e sicuro per tutti:",2025-04-26
+user_need_aware,QEM64,Positive,GEM,"La WWF, o World Wide Fund for Nature, si occupa di proteggere la natura e gli animali",2025-04-26
+user_need_aware,QEM65,Positive,GEM,Ocean Cleanup è un'organizzazione senza scopo di lucro che si occupa di pulire l'oceano,2025-04-26
+user_need_aware,QEM66,Negative,GEM,Il lago Aral è un lago che si è ridotto drasticamente. La causa principale è la,2025-04-26
+user_need_aware,QEM67,Positive,GEM,Il frigorifero solidale è un frigorifero speciale che aiuta a conservare i prodotti alimentari in,2025-04-26
+user_need_aware,QEM68,Positive,GEM,"L'oceano cleanup è un'attività importante per proteggere il nostro mare! 🌊
+
+",2025-04-26
+user_need_aware,QEM69,Negative,GEM,"Sì, purtroppo gli orsi polari stanno diminuendo drasticamente di numero.  È una situazione",2025-04-26
+user_need_aware,QEM70,Negative,GEM,Il ghiacciaio più vicino a noi che sta sciogliendosi in modo preoccupante è il ghi,2025-04-26
+user_need_aware,QEM71,Positive,GEM,L'Ocean Cleanup è un'organizzazione senza scopo di lucro che si occupa di pulire l',2025-04-26
+user_need_aware,QEM72,Negative,GEM,Il lago Aral è un lago che si è ridotto drasticamente. La causa principale è la,2025-04-26
+user_need_aware,QEM73,Positive,GEM,"Il WWF, o World Wide Fund for Nature, si occupa di proteggere la natura e gli animali",2025-04-26
+user_need_aware,QEM74,Negative,GEM,L'isola di plastica è un luogo molto triste! È un'isola che si trova nel mare,2025-04-26
+user_need_aware,QEM75,Positive,GEM,"Il WWF, o World Wide Fund for Nature, si occupa di proteggere la natura e gli animali",2025-04-26
+user_need_aware,QEM76,Positive,GEM,"Il WWF, o World Wide Fund for Nature, si occupa di proteggere la natura e gli animali",2025-04-26
+user_need_aware,QEM77,Negative,GEM,"Sì, purtroppo gli orsi polari stanno diminuendo drasticamente.  È una situazione triste,",2025-04-26
+user_need_aware,QEM78,Negative,GEM,Il ghiacciaio più preoccupante in questo momento è il **Ghiacciaio di Pine Island**,2025-04-26
+user_need_aware,QEM79,Negative,GEM,"L'isola di plastica è un problema enorme per l'ambiente! 
+
+Immagina un grande",2025-04-26
+user_need_aware,QEM80,Positive,GEM,"L'oceano è un luogo meraviglioso, ma purtroppo, è pieno di rifiuti.  ",2025-04-26
+user_need_aware,QEM81,Negative,GEM,"L'isola di plastica si trova in un mare pieno di plastica! 🌊 
+
+È un",2025-04-26
+user_need_aware,QEM82,Negative,GEM,"L'isola di plastica è un problema enorme! È come un grande, grande oceano di rifiuti",2025-04-26

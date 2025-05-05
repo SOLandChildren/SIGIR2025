@@ -1,0 +1,4 @@
+QID, Query, Prompt Type, Task Sentiment
+QGEN1, Cosa sono e come nascono i tornadi?, General, 
+QEM1, Perchè gli orsi polari sono a rischio di estinzione?, Emotionally-Charged, Positive
+QEM2, Quali sono le regole per tenere le spiagge pulite?, Emotionally-Charged, Negative 
